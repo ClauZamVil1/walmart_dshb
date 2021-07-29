@@ -1,0 +1,26 @@
+
+.clock,
+ {
+    margin: .4rem 0;
+}
+
+input {
+  border:none!important;
+}
+.filters {
+  display: flex;
+}
+
+.btn-secondary {
+  color:grey!important;
+}
+
+.f1, .f2, .f3, .f4, .f5, .f6 {
+
+    box-sizing: border-box!important;
+    margin-bottom: 8px!important;
+    padding: 0 8px!important;
+    width: auto!important;
+    background: white!important;
+    border-radius: 8px!important;
+}
